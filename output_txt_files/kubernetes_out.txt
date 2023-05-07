@@ -1,1 +1,9 @@
-<paste log output from Kubernetes-mediated prediction, here>
+(.devops) Terry:~/environment/04_Project_Microservices (main) $ ./run_kubernetes.sh 
+twdockeruser/sklearn_predictor
+Error from server (AlreadyExists): pods "skp" already exists
+NAME   READY   STATUS    RESTARTS   AGE
+skp    1/1     Running   0          3m38s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+
+
