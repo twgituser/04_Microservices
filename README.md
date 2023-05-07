@@ -1,6 +1,9 @@
-<include a CircleCI status badge, here.>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/twgituser/04_Project_Microservices/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/twgituser/04_Project_Microservices/tree/main)
 
 ## Project Overview
+
+hadolint checks the Dockerfile for errors
+pylint checks the app.py source code for errors
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API.
 
